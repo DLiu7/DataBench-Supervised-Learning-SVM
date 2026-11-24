@@ -7,9 +7,10 @@ Libraries Used:
 
 Modules Used:
 - pyplot
-- naive_bayes
+- svm
+- metrics
 - model_selection
-- feature_extraction
+- datasets
 
 
 Division of Labor:
@@ -20,7 +21,8 @@ Daniel
 - Task 2: Train SVM Classifier
 
 Milan
-- 
+- Task 3.1: Make Predictions on Test Set
+- Task 3.2: Evaluate Model Performance using Confusion Matrix
 
 Alban
-- 
+- Task 3.3: Display Misclassified Images
